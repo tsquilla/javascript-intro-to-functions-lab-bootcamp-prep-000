@@ -17,5 +17,4 @@ function logWhisper(string) {
   
 }
 function sayHiToGradma(string) {
-  if string === whisper(string)
-}
+var lowercase 
