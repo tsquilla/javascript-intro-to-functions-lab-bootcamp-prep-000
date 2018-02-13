@@ -14,4 +14,5 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
   
 }
-function 
+function sayHiToGradma(string) {
+  return "I can't hear you!" if string.toLowerCase()
